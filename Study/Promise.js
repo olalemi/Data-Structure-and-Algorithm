@@ -1,4 +1,4 @@
-// Solve the questions below:
+// Solve the questions below  Promises:
 
 // #1) Create a promise that resolves in 4 seconds and returns "success" string
 
